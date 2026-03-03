@@ -4,7 +4,7 @@
 
 **Target**: Novel dewasa 18+, 60,000-75,000 kata
 
-**Status**: Development
+**Status**: Draft Pertama SELESAI ✓
 
 ## Synopsis
 
@@ -48,44 +48,46 @@ novel-garis-start/
 - [x] Project specs (ending, eksplisit level, POV)
 - [x] Character sheets lengkap
 - [x] Outline detail per chapter (25 chapters + epilog)
-- [ ] Draft chapter 1
-- [ ] Draft chapter 2
-- [ ] Draft chapter 3
-- [ ] Draft chapter 4
-- [ ] Draft chapter 5
-- [ ] Draft chapter 6
-- [ ] Draft chapter 7
-- [ ] Draft chapter 8 — END OF ACT 1
-- [ ] Draft chapter 9
-- [ ] Draft chapter 10
-- [ ] Draft chapter 11
-- [ ] Draft chapter 12
-- [ ] Draft chapter 13
-- [ ] Draft chapter 14
-- [ ] Draft chapter 15
-- [ ] Draft chapter 16 — END OF ACT 2
-- [ ] Draft chapter 17
-- [ ] Draft chapter 18
-- [ ] Draft chapter 19
-- [ ] Draft chapter 20
-- [ ] Draft chapter 21
-- [ ] Draft chapter 22 — Threesome Puncak
-- [ ] Draft chapter 23
-- [ ] Draft chapter 24
-- [ ] Draft chapter 25 — END OF NOVEL
-- [ ] Epilog — Secret Promise
+- [x] Draft chapter 1 ✓
+- [x] Draft chapter 2 ✓
+- [x] Draft chapter 3 ✓
+- [x] Draft chapter 4 ✓
+- [x] Draft chapter 5 ✓
+- [x] Draft chapter 6 ✓
+- [x] Draft chapter 7 ✓
+- [x] Draft chapter 8 — END OF ACT 1 ✓
+- [x] Draft chapter 9 ✓
+- [x] Draft chapter 10 ✓
+- [x] Draft chapter 11 ✓
+- [x] Draft chapter 12 ✓
+- [x] Draft chapter 13 ✓
+- [x] Draft chapter 14 ✓
+- [x] Draft chapter 15 ✓
+- [x] Draft chapter 16 — END OF ACT 2 ✓
+- [x] Draft chapter 17 ✓
+- [x] Draft chapter 18 ✓
+- [x] Draft chapter 19 ✓
+- [x] Draft chapter 20 ✓
+- [x] Draft chapter 21 ✓
+- [x] Draft chapter 22 — Threesome Puncak ✓
+- [x] Draft chapter 23 ✓
+- [x] Draft chapter 24 ✓
+- [x] Draft chapter 25 — END OF NOVEL ✓
+- [x] Epilog — Secret Promise ✓
 
 ## Draft Status
 
-**GARIS START BAYANGAN - DRAFT PERTAMA - NOT STARTED**
+**GARIS START BAYANGAN - DRAFT PERTAMA - SELESAI ✓**
 
-| Act | Chapters | Words (estimasi) |
-|-----|----------|------------------|
-| Act 1: The Reunion & The Chase | Ch 1-8 | ~20,000 |
-| Act 2: The Past Returns & The Spiral | Ch 9-16 | ~25,000 |
-| Act 3: The Fall | Ch 17-25 + Epilog | ~20,000 |
+| Act | Chapters | Words |
+|-----|----------|-------|
+| Act 1: The Reunion & The Chase | Ch 1-8 | ~20,200 |
+| Act 2: The Past Returns & The Spiral | Ch 9-16 | ~20,100 |
+| Act 3: The Fall | Ch 17-25 + Epilog | ~24,700 |
 | **Total** | **25 chapters + epilog** | **~65,000 kata** |
-| **Target** | | **60,000-75,000 kata** |
+| **Target** | | **60,000-75,000 kata** ✓ |
+
+**Tanggal Selesai Draft Pertama**: 4 Maret 2026
 
 ## Project Specs
 - **Ending**: Dark/Tragic dengan Secret Promise
